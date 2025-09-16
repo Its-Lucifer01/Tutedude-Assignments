@@ -50,3 +50,18 @@ This is a python program that calculates the Square Root, Natural Logarithm and 
 
 Output:
 <img width="975" height="163" alt="image" src="https://github.com/user-attachments/assets/a4b02a4c-1f0e-42ba-982a-078f5e301fa1" />
+
+## Assignment 4
+- **Task 1: Read a File and Handle Errors**
+This is a python program that reads a file, prints the content line-wise and handles exceptions (Errors) gracefully using try-except method in a function.
+
+Output:
+<img width="975" height="181" alt="image" src="https://github.com/user-attachments/assets/25f454d9-16c6-4811-bd7d-97b86a5d0032" />
+<img width="775" height="92" alt="image" src="https://github.com/user-attachments/assets/583c7063-1a2b-4153-8475-cd17e302eb20" />
+
+
+- **Task 2: Write and Append Data to a File**
+This is a python program that writes, appends and reads the data given by the user as input.
+
+Output:
+<img width="975" height="176" alt="image" src="https://github.com/user-attachments/assets/2dba11df-39fc-43d2-9099-84784ab35017" />
